@@ -1,5 +1,0 @@
-projectKey=com.kumaran.login:JavaProjectDemo
-serverUrl=http://localhost:9000
-dashboardUrl=http://localhost:9000/dashboard/index/com.kumaran.login:JavaProjectDemo
-ceTaskId=AVuKBXg8tevo2hPZr4CN
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AVuKBXg8tevo2hPZr4CN

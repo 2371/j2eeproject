@@ -1,6 +1,0 @@
-com\login\dao\LoginDao.class
-com\login\service\LoginServiceImpl.class
-com\login\controller\LoginController.class
-com\login\config\AppConfig.class
-com\login\dao\LoginDaoImpl.class
-com\login\service\LoginService.class
